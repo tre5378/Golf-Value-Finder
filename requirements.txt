@@ -1,0 +1,7 @@
+streamlit
+pandas
+thefuzz
+gspread
+gspread_dataframe
+google-auth
+requests
