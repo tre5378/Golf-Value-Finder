@@ -5,3 +5,6 @@ gspread
 gspread_dataframe
 google-auth
 requests
+google-auth
+google-auth-oauthlib
+google-api-python-client
